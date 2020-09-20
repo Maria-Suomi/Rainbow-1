@@ -1,4 +1,4 @@
-purple first
+purple first and second
 and gren the next
 rose and yellow
 blue and brown
@@ -7,4 +7,4 @@ the end
 Part II
 Now the white and lilac
 Little rainbow
-red and round
+red and round and square
